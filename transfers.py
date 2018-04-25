@@ -17,4 +17,6 @@ RCB = 0
 RR = 0
 DD = 0
 
-#goal is to keep schedule team players n+n = maximum of 11.  
+#goal is to keep schedule team players n+n = maximum of 11.
+
+#use free transfers + ntransfers for each game and play maximum possible players each game
